@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694db92f-7807-4ca0-bcae-f12a740a2159" name="Changes" comment="init1">
-      <change afterPath="$PROJECT_DIR$/src/Connectable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fileservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -31,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Амина/IdeaProjects/homework26"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Амина/IdeaProjects/controlwork3&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -67,7 +67,12 @@
       <workItem from="1656254682782" duration="1050000" />
       <workItem from="1656255830696" duration="613000" />
       <workItem from="1656266842383" duration="192000" />
-      <workItem from="1656267109993" duration="3596000" />
+      <workItem from="1656267109993" duration="4291000" />
+      <workItem from="1656271503617" duration="182000" />
+      <workItem from="1656271727098" duration="856000" />
+      <workItem from="1656272785774" duration="45000" />
+      <workItem from="1656272869817" duration="44000" />
+      <workItem from="1656272950268" duration="217000" />
     </task>
     <task id="LOCAL-00001" summary="init1">
       <created>1656267617901</created>
@@ -76,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656267617901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init1">
+      <created>1656270928384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656270928384</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
