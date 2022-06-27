@@ -1,0 +1,21 @@
+[
+  { "key": "1",
+    "value": "One"
+  },
+
+  { "key": "jam",
+    "value": "Its gone and gone"
+  },
+
+  { "key": "ABC",
+    "value": "101: ABC for toddlers"
+  },
+
+  { "key": "abc",
+    "value": "ABC for kids"
+  },
+
+  { "key": "over9000",
+    "value": "Way over 9000!"
+  }
+]

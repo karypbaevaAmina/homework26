@@ -1,4 +1,5 @@
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -6,12 +7,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public abstract class Service implements Connectable {
-    private static final Gson GSON = new Gson();
-    private static final Path PATH = Paths.get("./row.json");
+    private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
+    private static final Path PATH = Paths.get("./rows.json");
 
-    @Override
-    public void openConnection() {
-    }
 
     public static Row[] readFile() {
         String json = "";
@@ -23,6 +21,19 @@ public abstract class Service implements Connectable {
         return GSON.fromJson(json, Row[].class);
     }
 
+    public static void writeFile (Row[] rows) {
+        String json = GSON.toJson(rows);
+        System.out.println(json);
+    }
+
+    @Override
+    public void openConnection() {
+        System.out.println("------Database------");
+        Row[] rows = Service.readFile();
+        for (Row row : rows) {
+            System.out.println(row);
+        }
+    }
 
     @Override
     public void closeDataBaseGonnection() {
@@ -43,7 +54,7 @@ public abstract class Service implements Connectable {
     }
 
     @Override
-    public void readKeyRecord() throws Exception{
+    public void readKeyRecord() throws Exception {
         throw new Exception("No such record");
     }
 

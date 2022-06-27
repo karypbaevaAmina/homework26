@@ -3,13 +3,12 @@ public class Row {
     public String value;
 
 
-    public Row(String key, String value) {
-        this.key = key;
-        this.value = value;
-    }
-
     public Row() {
 
+    }
+    public Row (String key, String value) {
+        this.key = key;
+        this.value = value;
     }
 
     public String getKey() {
@@ -26,6 +25,11 @@ public class Row {
 
     public void setValue(String value) {
         this.value = value;
+    }
+
+    @Override
+    public String toString(){
+        return "Key -" + key + "  value -" + value;
     }
 
 }
