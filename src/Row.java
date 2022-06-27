@@ -1,12 +1,15 @@
 public class Row {
-
     public String key;
     public String value;
 
 
-    public Row (String key, String value) {
+    public Row(String key, String value) {
         this.key = key;
         this.value = value;
+    }
+
+    public Row() {
+
     }
 
     public String getKey() {
@@ -24,4 +27,5 @@ public class Row {
     public void setValue(String value) {
         this.value = value;
     }
+
 }

@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="694db92f-7807-4ca0-bcae-f12a740a2159" name="Changes" comment="init1">
-      <change afterPath="$PROJECT_DIR$/src/Fileservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
+    <list default="true" id="694db92f-7807-4ca0-bcae-f12a740a2159" name="Changes" comment="init2">
+      <change afterPath="$PROJECT_DIR$/row.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework26.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Connectable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connectable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fileservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,14 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Амина/IdeaProjects/controlwork3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Амина/IdeaProjects/homework26",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -73,6 +89,17 @@
       <workItem from="1656272785774" duration="45000" />
       <workItem from="1656272869817" duration="44000" />
       <workItem from="1656272950268" duration="217000" />
+      <workItem from="1656273200000" duration="186000" />
+      <workItem from="1656273423219" duration="622000" />
+      <workItem from="1656274202134" duration="125000" />
+      <workItem from="1656274419510" duration="374000" />
+      <workItem from="1656274900536" duration="835000" />
+      <workItem from="1656337512485" duration="1300000" />
+      <workItem from="1656347166529" duration="303000" />
+      <workItem from="1656347511246" duration="362000" />
+      <workItem from="1656348147098" duration="1356000" />
+      <workItem from="1656349686527" duration="174000" />
+      <workItem from="1656350028336" duration="2643000" />
     </task>
     <task id="LOCAL-00001" summary="init1">
       <created>1656267617901</created>
@@ -88,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656270928384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init2">
+      <created>1656273342345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656273342345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init1" />
-    <option name="LAST_COMMIT_MESSAGE" value="init1" />
+    <MESSAGE value="init2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init2" />
   </component>
 </project>
