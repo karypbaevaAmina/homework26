@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="694db92f-7807-4ca0-bcae-f12a740a2159" name="Changes" comment="task2">
-      <change afterPath="$PROJECT_DIR$/rows.json" afterDir="false" />
+    <list default="true" id="694db92f-7807-4ca0-bcae-f12a740a2159" name="Changes" comment="task3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/row.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Row.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Row.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +99,13 @@
       <workItem from="1656354337363" duration="504000" />
       <workItem from="1656354996128" duration="259000" />
       <workItem from="1656355382953" duration="685000" />
-      <workItem from="1656356409887" duration="4248000" />
+      <workItem from="1656356409887" duration="5164000" />
+      <workItem from="1656361766681" duration="152000" />
+      <workItem from="1656386507023" duration="646000" />
+      <workItem from="1656387246630" duration="215000" />
+      <workItem from="1656389560953" duration="270000" />
+      <workItem from="1656390048907" duration="45000" />
+      <workItem from="1656390117033" duration="1620000" />
     </task>
     <task id="LOCAL-00001" summary="init1">
       <created>1656267617901</created>
@@ -132,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656353167424</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task3">
+      <created>1656360883292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656360883292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +163,7 @@
     <MESSAGE value="init1" />
     <MESSAGE value="init2" />
     <MESSAGE value="task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task2" />
+    <MESSAGE value="task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="task3" />
   </component>
 </project>
